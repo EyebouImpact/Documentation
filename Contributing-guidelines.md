@@ -4,7 +4,10 @@ Thank you for your time and interest in contributing to our project. Any contrib
 
 
 In this guide we will cover the following:
-<p> Opening an issue, Creating a pull request, Reviewing, Merging a pull request 
+- Opening an issue
+- Creating a pull request
+- Reviewing a pull request
+- Merging a pull request 
 
 
 ## Getting Started
@@ -24,21 +27,18 @@ Scan through our https://github.com/EyebouImpact/EyebouImpact/issues to find one
 
 ### Make Changes
 
-#### Make changes in the UI
+#### Make changes to the Documentation
 
-Click **Make a contribution** at the bottom of any docs page to make small changes such as a typo, sentence fix, or a broken link. This takes you to the `.md` file where you can make your changes and create a pull request for a review. 
+Click **Improve this page** at the bottom of any docs page to make small changes such as a typo, sentence fix, or a broken link. This takes you to the `.md` file where you can make your changes and create a pull request for a review. 
 
 
-#### Make changes locally
+#### Make changes to the code
 
-1. Fork the repository.
-
-2. Use the command line
-  - so that you can make your changes without affecting the original project until you're ready to merge them.
-
-3. Install or update to **Node.js v16**. 
-
-4. Create a working branch and start with your changes!
+1. Fork the repository
+1. Follow the installation instructions
+1. Create a working branch and start with your changes
+1. Test your changes
+1. Once satisfied, push your changes to your remote repository and open a pull request
 
 ### Commit your update
 
@@ -60,3 +60,7 @@ Once you submit your PR, an Eyebou team member will review your proposal. We may
 Congratulations :tada::tada: Thank you from the Eyebou team! :sparkles:
 
 Once your PR is merged, your contributions will be publicly visible on the Eyebou profile. 
+
+### Questions?
+
+Add any questions you have to your issue or pull request, or email us at support@eyebou.com
