@@ -19,11 +19,11 @@ To get an overview of the project, read the Readme.
 
 #### Create a new issue
 
-If you spot a problem with the docs, search if an issue already exists https://github.com/EyebouImpact/EyebouImpact/issues. If your issue doesn’t exist you can open up a new issue.
+If you spot a problem with the docs, check if an issue already exists by searching the issues in the relevant repository e.g. https://github.com/EyebouImpact/strabismus-detection/issues. If your issue doesn’t exist you can open up a new issue.
 
 #### Solve an issue
 
-Scan through our https://github.com/EyebouImpact/EyebouImpact/issues to find one that interests you. If you find an issue to work on, you are welcome to open a PR with a fix.
+Scan through the issues for the repository you want to contribute to e.g. https://github.com/EyebouImpact/strabismus-detection/issues to find one that interests you. If you find an issue to work on, you are welcome to open a PR with a fix.
 
 ### Make Changes
 
@@ -35,7 +35,7 @@ Click **Improve this page** at the bottom of any docs page to make small changes
 #### Make changes to the code
 
 1. Fork the repository
-1. Follow the installation instructions
+1. Follow the installation instructions in the [README](https://github.com/EyebouImpact/strabismus-detection)
 1. Create a working branch and start with your changes
 1. Test your changes
 1. Once satisfied, push your changes to your remote repository and open a pull request
