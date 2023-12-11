@@ -7,3 +7,5 @@ Welcome to the EyebouImpact documentation website. Here are some resources to ge
 - [Contributing Guidelines](/Contributing-guidelines.md)
 - [Project Charter](/Project-charter.md)
 - [Quality Assurance](/quality-assurance.md)
+- [DevOPS / MLOps](/mlops.pdf)
+- [AI Team Report Nov2023](/strabismus-presentation-nov2023.pdf)
